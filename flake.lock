@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391748,
-        "narHash": "sha256-+zUzOrH43MggFEIANy2rF3kpyhr43v1/i9gjM1s+uT8=",
+        "lastModified": 1652792205,
+        "narHash": "sha256-atT+zFf91VWQX8FghEzGKyLK8onpPeyFLMBYSeaKSKU=",
         "owner": "nim-nix-pkgs",
         "repo": "yahooweather",
-        "rev": "e3de14f34643a382de7f1d228be5e0b506117ce8",
+        "rev": "47d4a9e61fe7301165f7ec7675bc41efeb7470bd",
         "type": "github"
       },
       "original": {
