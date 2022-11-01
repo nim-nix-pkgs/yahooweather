@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254954,
-        "narHash": "sha256-UL7N3V2p7GaUEMwIQ9UVuFKDvMjMSHLs9OrUNE9d2iA=",
+        "lastModified": 1667322815,
+        "narHash": "sha256-/ALoZdrc2PbZUPrIHSyvCEuJyrPjlyLCiefcHaMNKmA=",
         "owner": "nim-nix-pkgs",
         "repo": "yahooweather",
-        "rev": "672ab2401c477c754c5a7ea93f99aad1fc085e8f",
+        "rev": "ec591abcc13978b0943f81d090d1063c33eb8c5a",
         "type": "github"
       },
       "original": {
